@@ -1,4 +1,4 @@
-# Contributing to [Project Name]
+# Contributing
 
 Welcome! We're excited that you're interested in contributing to [Project Name]. By participating in this project, you agree to follow our guidelines outlined below to ensure a positive and inclusive community for everyone.
 
